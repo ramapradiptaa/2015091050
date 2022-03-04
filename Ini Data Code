@@ -1,1 +1,2 @@
 printf("saya bisa");
+printf("Masukan data :"); scanf("");
